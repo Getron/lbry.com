@@ -3,7 +3,7 @@ title: LBRY startup troubleshooting
 category: troubleshooting
 order: 1
 ---
-**IMPORTANT: We are aware of issues starting up LBRY on Xenial based systems with the latest update. You can continue to use the old version or try the build below which keeps the original SDK that supports it**
+**IMPORTANT: We are aware of issues starting up LBRY on Xenial and Arch based systems with the latest update. You can continue to use the old version or try the build below which keeps the original SDK that supports it**
 
 [Download special Linux build for Xenial systems](https://build.lbry.io/app/build-9592_commit-0b1fddf/electron/)
 
